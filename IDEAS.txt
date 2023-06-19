@@ -1,0 +1,12 @@
+We don't make use of proof! Validate not only through lenght but validity
+
+Show amount of someone's wallet
+Related: 	Deny transaction if there aren't enough funds
+		Deny transaction if recipient adress doesn't exist
+
+Synching: If new block is mined, update the others in the network!!
+
+NON-ISSUE Put load on client, fundamental rework. Make it truly decentralized.
+
+Make Resolution Authoritative: If Blockchain request resolution, finds Blockchain 2 is correct, Blockchain 1 AND 3 SHOULD CORRECT!
+
